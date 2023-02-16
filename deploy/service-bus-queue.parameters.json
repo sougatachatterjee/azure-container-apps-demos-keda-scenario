@@ -3,19 +3,19 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "LogAnalytics.Workspace.Name": {
-            "value": "azure-container-apps-demos-keda-logs"
+            "value": "sougata-container-apps-demos-keda-logs"
         },
         "ContainerApps.Environment.Name": {
-            "value": "azure-container-apps-demos-keda-container-plan"
+            "value": "sougata-container-apps-demos-keda-container-plan-78889"
         },
         "ContainerApps.Portal.Name": {
-            "value": "aca-demos-keda-apps-portal"
+            "value": "sougata-demos-keda-apps-portal-098734"
         },
         "ContainerApps.OrderProcessor.Name": {
-            "value": "aca-demos-keda-apps-processor"
+            "value": "sougata-demos-keda-apps-processor-99454"
         },
         "ServiceBus.Namespace.Name": {
-            "value": "azure-container-apps-keda-scaling-demo"
+            "value": "sougata-container-apps-keda-scaling-demo"
         }
     }
 }
